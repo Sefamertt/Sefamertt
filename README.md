@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sefamertt
 - 👀 I’m interested in software
 - 🌱 I’m currently learning beginning and foundation
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on software and coding
 - 📫 How to reach me sefamert4137@gmail.com
 
 <!---
